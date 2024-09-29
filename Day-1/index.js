@@ -42,7 +42,7 @@ console.log(typeof("@@#$$"))
 
 Boolean true false
 
-console.log(typeof('true'))
+console.log(typeof(true))
 console.log(typeof('false'))
 
 Assign =
@@ -100,8 +100,8 @@ var firstName = "hii";
 var secondName = "hii";
 console.log(first == second);
 
-console.log("11111" == 11111);
-console.log("11111" === "11111");
+console.log("11111" == 11111); // true
+console.log("11111" === 11111); // false
 
 // difference between var let and const
 //                 var
