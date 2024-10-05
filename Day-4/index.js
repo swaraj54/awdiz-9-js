@@ -17,7 +17,7 @@
 // inbuilt functions console.log() typeof()
 // we can create our own functions
 // function -> its provide functionality / usecase
-// function -> store multiple lines of code
+// function -> write multiple lines of code
 
 function kuchbhi() {
   console.log("inside a function.");
@@ -81,7 +81,7 @@ function multiplication(value1, value2) {
 }
 
 var output = multiplication(2, 3); // its going to provide data
-console.log(output);
+console.log(output); // 6
 
 
 
