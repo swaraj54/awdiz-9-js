@@ -80,7 +80,7 @@
 
 
 for (var myNumber = 1; myNumber < 11; myNumber++) {
-  console.log(myNumber); // 1
+  console.log(myNumber); // 1 , 2 , 3 , 10
 //   myNumber++
 }
 
@@ -121,19 +121,19 @@ for (var myNumber = 1; myNumber < 11; myNumber++) {
 
 
 
-// var num = 17;
-// num--; // 16
-// num += 2; // 18
-// num++; // 19
-// num = num - 1; // 18
-// num -= 1; // 17
-// num = num + 4;
-// num = num - 2;
-// num++; // increment operator -  it'll increment value by 1
-// num++; // it'll increment value by 1
-// num--;
-// num--;
-// num += 3;
-// num -= 3;
+var num = 17;
+num--; // 16
+num += 2; // 18
+num++; // 19
+num = num - 1; // 18
+num -= 1; // 17
+num = num + 4;
+num = num - 2;
+num++; // increment operator -  it'll increment value by 1
+num++; // it'll increment value by 1
+num--;
+num--;
+num += 3;
+num -= 3;
 
 // console.log(num);
